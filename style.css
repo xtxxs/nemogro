@@ -3,10 +3,10 @@ body {
   overflow: hidden;
 }
 #octocat {
-  height: 200px;
-  width: 300px;
-  background: url(https://xatimg.com/image/wbb7cn3CJe3d.png) left center;
-  animation: animateSprite 15s steps(1) infinite, swim 15s ease-in-out infinite;
+  height: 500px;
+  width: 410px;
+  background: url(https://64.media.tumblr.com/57fac5ed73ee1d52eec0f630dd3cfcd1/tumblr_mktp5v0B2Z1rfjowdo1_500.gif) left center;
+  animation: animateSprite 10s steps(1) infinite, swim 10s ease-in-out infinite;
   position: absolute;
   right: -400px;
   top: 50%;
